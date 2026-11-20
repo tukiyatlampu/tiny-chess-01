@@ -1,3 +1,7 @@
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/tukiyatlampu/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/tukiyatlampu/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 # tiny-chess-01
 
 Strongest chess engine in 4096 bytes of Python (stdlib only).
@@ -16,10 +20,9 @@ Strongest chess engine in 4096 bytes of Python (stdlib only).
 
 ## Limits
 
-- `main.py` 4084 bytes (cap 4096). Repo total under 8192.
+- `main.py` 4086 bytes (cap 4096). Repo total under 8192.
 - Max ~5 s/move, under the 10 s/move limit.
 
 ## Test
 
-See TEST_RESULTS.md. Practice trials vs house engines
-(depth-2 .. nodes-500k).
+See TEST_RESULTS.md for practice trials vs house engines.
