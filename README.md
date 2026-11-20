@@ -16,7 +16,7 @@ Strongest chess engine in 4096 bytes of Python (stdlib only).
 
 ## Limits
 
-- `main.py` 4094 bytes (cap 4096). Repo total under 8192.
+- `main.py` 4084 bytes (cap 4096). Repo total under 8192.
 - Max ~5 s/move, under the 10 s/move limit.
 
 ## Test
